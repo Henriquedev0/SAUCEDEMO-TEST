@@ -1,7 +1,7 @@
 # 🧪 Projeto de Testes Manuais - SauceDemo
 
 Este repositório contém testes manuais realizados no site [SauceDemo](https://www.saucedemo.com/) com foco em verificação funcional, usabilidade e validação de fluxos críticos como login e checkout.
-
+(Todos os testes foram feitos com o login especifico: visual_user
 ## 🎯 Objetivo
 Demonstrar habilidades em QA Manual, incluindo:
 - Execução de testes baseados em casos de uso reais
